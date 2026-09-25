@@ -1,0 +1,182 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="100%" height="100%">
+  <defs>
+    <!-- Sky Background Gradient -->
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="45%" stop-color="#0B132B" />
+      <stop offset="80%" stop-color="#1C2541" />
+      <stop offset="100%" stop-color="#0A3663" />
+    </linearGradient>
+
+    <!-- Cloud Layer Gradients -->
+    <linearGradient id="cloudBack" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.1" />
+    </linearGradient>
+
+    <linearGradient id="cloudMid" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7DD3FC" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0369A1" stop-opacity="0.3" />
+    </linearGradient>
+
+    <linearGradient id="cloudFront" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E0F2FE" stop-opacity="0.95" />
+      <stop offset="30%" stop-color="#BAE6FD" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.4" />
+    </linearGradient>
+
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FDE047" />
+      <stop offset="50%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#FBBF24" />
+    </linearGradient>
+
+    <linearGradient id="cyanText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="glow" />
+      <feComposite in="SourceGraphic" in2="glow" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.2; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
+    @keyframes floatCloud {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+    }
+    @keyframes driftBack {
+      0%, 100% { transform: translateX(0px); }
+      50% { transform: translateX(12px); }
+    }
+    .star { transform-origin: center; animation: twinkle 3s infinite ease-in-out; }
+    .s1 { animation-delay: 0.2s; }
+    .s2 { animation-delay: 1.1s; }
+    .s3 { animation-delay: 1.9s; }
+    .s4 { animation-delay: 2.5s; }
+    .cloud-layer-back { animation: driftBack 8s infinite ease-in-out; }
+    .cloud-layer-front { animation: floatCloud 5s infinite ease-in-out; }
+    .retro-badge {
+      font-family: 'Courier New', Courier, monospace, monospace;
+      font-weight: 900;
+      letter-spacing: 2px;
+    }
+  </style>
+
+  <!-- Sky Background Card with Rounded Border -->
+  <rect x="0" y="0" width="900" height="300" rx="16" fill="url(#skyGrad)" />
+  <rect x="1" y="1" width="898" height="298" rx="15" fill="none" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1.5" />
+
+  <!-- Stars / Twinkling Pixels -->
+  <g fill="#FDE047">
+    <!-- Star Cross 1 -->
+    <path class="star s1" d="M120,45 L124,45 L124,41 L126,41 L126,45 L130,45 L130,47 L126,47 L126,51 L124,51 L124,47 L120,47 Z" />
+    <circle class="star s2" cx="240" cy="70" r="2.5" fill="#38BDF8" />
+    <circle class="star s3" cx="720" cy="55" r="2" fill="#FDE047" />
+    <path class="star s4" d="M780,85 L783,85 L783,82 L785,82 L785,85 L788,85 L788,87 L785,87 L785,90 L783,90 L783,87 L780,87 Z" />
+    <circle class="star s1" cx="620" cy="40" r="1.5" fill="#FFFFFF" />
+    <circle class="star s3" cx="180" cy="95" r="1.5" fill="#FFFFFF" />
+    <circle class="star s2" cx="830" cy="60" r="2.5" fill="#38BDF8" />
+    <circle class="star s4" cx="70" cy="80" r="2" fill="#FDE047" />
+  </g>
+
+  <!-- Top Arcade Pill -->
+  <g transform="translate(300, 24)">
+    <rect x="0" y="0" width="300" height="28" rx="14" fill="#031525" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.8"/>
+    <text x="150" y="18" fill="#38BDF8" font-size="11" font-weight="bold" font-family="'Courier New', monospace" text-anchor="middle" letter-spacing="1.5">
+      &#x25B6; PLAYER 1: CLOUD PILOT &#x25C0;
+    </text>
+  </g>
+
+  <!-- Main Hero Title -->
+  <text x="450" y="105" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-weight="900" font-size="44" fill="#FFFFFF" letter-spacing="1.5">
+    SHUBHAM AGARWAL
+  </text>
+
+  <!-- Arcade Subtitle -->
+  <text x="450" y="138" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-weight="700" font-size="16" fill="url(#cyanText)" letter-spacing="1">
+    &#x2601;&#xFE0F; GOOGLE CLOUD ARCADE CONQUEROR &#x2022; 400+ LABS CLEARED
+  </text>
+
+  <!-- Stats HUD Bar inside Banner -->
+  <g transform="translate(175, 155)">
+    <rect x="0" y="0" width="550" height="26" rx="6" fill="#061224" fill-opacity="0.8" stroke="#0284C7" stroke-width="1"/>
+    <text x="275" y="17" fill="#E2E8F0" font-size="11.5" font-family="'Courier New', monospace" font-weight="bold" text-anchor="middle" letter-spacing="1">
+      <tspan fill="#38BDF8">HP: 100%</tspan> &#x2502; <tspan fill="#FDE047">XP: 400+ LABS</tspan> &#x2502; <tspan fill="#4ADE80">DEPLOYS: CLOUD RUN</tspan> &#x2502; <tspan fill="#C084FC">AI: VERTEX</tspan>
+    </text>
+  </g>
+
+  <!-- ==================== CLOUD CUTOUTS (BOTTOM LAYERS) ==================== -->
+
+  <!-- Layer 1: Back Clouds (Deep Cyan / Soft Drifting) -->
+  <g class="cloud-layer-back">
+    <path d="M -30,300 
+             L -30,225 
+             Q 30,195 90,215 
+             Q 150,185 220,205 
+             Q 280,180 350,210 
+             Q 420,180 490,205 
+             Q 560,175 640,210 
+             Q 710,185 780,215 
+             Q 850,190 930,225 
+             L 930,300 Z" 
+          fill="url(#cloudBack)" />
+  </g>
+
+  <!-- Layer 2: Mid Clouds (Puffy Neon Blue) -->
+  <path d="M -20,300 
+           L -20,240 
+           Q 25,205 75,225 
+           Q 115,190 175,210 
+           Q 235,180 305,215 
+           Q 375,190 445,220 
+           Q 515,185 585,215 
+           Q 655,195 725,220 
+           Q 785,185 855,220 
+           Q 895,205 920,240 
+           L 920,300 Z" 
+        fill="url(#cloudMid)" />
+
+  <!-- Layer 3: Foreground Cloud Cutouts (Puffy Clouds framing bottom) -->
+  <g class="cloud-layer-front">
+    <!-- Left Puffy Cloud -->
+    <path d="M -30,300 
+             L -30,260 
+             Q 10,230 50,245 
+             Q 80,215 130,230 
+             Q 175,210 220,240 
+             Q 265,225 310,250 
+             Q 360,220 420,245 
+             Q 480,220 540,245 
+             Q 600,215 660,240 
+             Q 710,220 760,245 
+             Q 810,215 860,240 
+             Q 900,225 930,260 
+             L 930,300 Z" 
+          fill="url(#cloudFront)" />
+
+    <!-- Cute Retro Cloud Silhouette Left -->
+    <ellipse cx="140" cy="270" rx="60" ry="25" fill="#FFFFFF" fill-opacity="0.9" />
+    <circle cx="120" cy="255" r="22" fill="#FFFFFF" fill-opacity="0.9" />
+    <circle cx="155" cy="250" r="28" fill="#FFFFFF" fill-opacity="0.9" />
+    <circle cx="185" cy="260" r="20" fill="#FFFFFF" fill-opacity="0.9" />
+
+    <!-- Cute Retro Cloud Silhouette Center-Right -->
+    <ellipse cx="760" cy="270" rx="70" ry="26" fill="#FFFFFF" fill-opacity="0.9" />
+    <circle cx="730" cy="255" r="24" fill="#FFFFFF" fill-opacity="0.9" />
+    <circle cx="770" cy="248" r="30" fill="#FFFFFF" fill-opacity="0.9" />
+    <circle cx="805" cy="258" r="22" fill="#FFFFFF" fill-opacity="0.9" />
+
+    <!-- Small Floating Cloud Center -->
+    <ellipse cx="450" cy="280" rx="55" ry="20" fill="#FFFFFF" fill-opacity="0.85" />
+    <circle cx="430" cy="268" r="18" fill="#FFFFFF" fill-opacity="0.85" />
+    <circle cx="465" cy="265" r="22" fill="#FFFFFF" fill-opacity="0.85" />
+  </g>
+</svg>
