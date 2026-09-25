@@ -138,11 +138,11 @@ Motto       : "Build fast, package in Docker, ship to Cloud Run."
 
 ---
 
-### 📊 Arcade Leaderboard Stats
+### 📊 Arcade Leaderboard & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-beryl-five.vercel.app/api?username=Shagarwal07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Player Stats" height="155" />
-  <img src="https://github-readme-stats-beryl-five.vercel.app/api/top-langs/?username=Shagarwal07&layout=compact&theme=radical&hide_border=true" alt="Equipped Languages" height="155" />
+  <!-- CUSTOM BULLETPROOF ARCADE STATS (NO RATE LIMITS, ZERO DOWNTIME) -->
+  <img src="./assets/arcade-stats.svg" width="100%" alt="Arcade Player Stats & Tech EXP" />
 </div>
 
 <br/>
