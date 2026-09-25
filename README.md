@@ -1,27 +1,23 @@
 <div align="center">
 
-<!-- RETRO ARCADE TYPING BANNER -->
-<a href="https://github.com/Shagarwal07">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=680&height=110&lines=%3E+PLAYER+1+READY...+SHUBHAM+AGARWAL+%F0%9F%8E%AE;%3E+CLASS%3A+CLOUD+PILOT+%2F+ARCADE+CONQUEROR+%E2%98%81%EF%B8%8F;%3E+400%2B+GCP+LABS+CLEARED+%7C+LVL+99+STAMINA+%E2%AD%90;%3E+DEPLOYING+QUESTS+TO+GOOGLE+CLOUD+%F0%9F%9A%80" alt="Arcade Typing Banner" />
-</a>
+<!-- CLOUD CUTOUT RETRO ARCADE BANNER -->
+<img src="./assets/cloud-header.svg" width="100%" alt="Shubham Agarwal - Cloud Pilot Arcade Banner" />
 
-<p align="center">
-  🎮 <b>Insert Coin to Deploy</b> • ☁️ <b>Google Cloud Explorer</b> • ⚡ <b>Rapid Product Shipper</b>
-</p>
+<br/>
 
-<!-- ACTION BUTTONS / LOOT LINKS -->
+<!-- ACTION BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-agrawal-856601244" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shubham.23bcon0370@jecrcu.edu.in">
-    <img src="https://img.shields.io/badge/COOP_INVITE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Co--op-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://cloudskillsboost.google" target="_blank">
-    <img src="https://img.shields.io/badge/GCP_ARCADE-400+_LABS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Arcade" />
+    <img src="https://img.shields.io/badge/GCP_Arcade-400+_Labs-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Arcade" />
   </a>
   <a href="https://github.com/Shagarwal07">
-    <img src="https://img.shields.io/badge/STATUS-ONLINE_%26_BUILDING-10B981?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Online_&_Shipping-10B981?style=for-the-badge" alt="Status" />
   </a>
 </p>
 
@@ -33,24 +29,24 @@
 
 ```yaml
 Character   : Shubham Agarwal [Player 1]
-Class       : Cloud Alchemist / Systems Pilot ☁️
+Class       : Cloud Pilot / Systems Builder ☁️
 Home Realm  : Google Cloud Platform (Arcade Track)
-Battle Cry  : "Build fast, package in Docker, ship to Cloud Run."
+Motto       : "Build fast, package in Docker, ship to Cloud Run."
 
 [ STATS & ATTRIBUTES ]
 ☁️ Cloud Stamina       : [████████████████████] LVL 99 (400+ GCP Labs Conquered)
-⚡ Prototyping Speed   : [████████████████░░░░] High Velocity Product Builds
+⚡ Prototyping Speed   : [████████████████░░░░] High Velocity Builds
 📦 Containerization    : [██████████████░░░░░░] Docker & Cloud Run Deploys
 🧠 AI Integration      : [█████████████░░░░░░░] Gemini & Vertex AI Workflows
-💾 Data Persistence    : [████████████░░░░░░░░] PostgreSQL & Spring Boot Glue
+💾 Data Persistence    : [████████████░░░░░░░░] PostgreSQL & Spring Boot Connectors
 ```
 
 ---
 
-### 🗺️ The Cloud Pipeline (Game Loop)
+### 🗺️ The Cloud Game Loop
 
 ```
-       [ 👾 Real-World Boss / Problem ]
+       [ 👾 Real-World Problem Boss ]
                      │
                      ▼
        [ 💡 Rapid Prototyping & Iteration ]
