@@ -68,7 +68,7 @@ Motto       : "Build fast, package in Docker, ship to Cloud Run."
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗳️ <a href="https://github.com/Shagarwal07/Voter_scrap">Electoral Voter Search Platform</a></h4>
+      <h4>🗳️ <a href="https://github.com/Shagarwal07/voter-search-app">Electoral Voter Search Platform</a></h4>
       <p><i>High-throughput civic data processing and search application.</i></p>
       <ul>
         <li><b>Problem:</b> Slow and cumbersome searching across large public voter registers.</li>
