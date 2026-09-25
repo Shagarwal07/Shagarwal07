@@ -1,0 +1,113 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 210" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070C1E" />
+      <stop offset="60%" stop-color="#0B1530" />
+      <stop offset="100%" stop-color="#0E2145" />
+    </linearGradient>
+
+    <!-- Bar Gradients -->
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D97706" />
+      <stop offset="100%" stop-color="#FDE047" />
+    </linearGradient>
+
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box with Glowing Border -->
+  <rect x="2" y="2" width="846" height="206" rx="12" fill="url(#bgGrad)" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.4" />
+
+  <!-- ==================== LEFT COLUMN: PLAYER STATS ==================== -->
+  <g transform="translate(30, 25)">
+    <!-- Header -->
+    <text x="0" y="16" fill="#38BDF8" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" font-weight="900" letter-spacing="1">
+      &#x25C6; ARCADE PLAYER STATS
+    </text>
+
+    <!-- Stat 1: Cloud Labs Cleared -->
+    <g transform="translate(0, 36)">
+      <circle cx="8" cy="8" r="4" fill="#38BDF8" />
+      <text x="22" y="12" fill="#94A3B8" font-family="'Segoe UI', sans-serif" font-size="13">GCP Labs Conquered:</text>
+      <text x="350" y="12" text-anchor="end" fill="#FDE047" font-family="'Courier New', monospace" font-size="14" font-weight="bold">400+ Labs (LVL 99)</text>
+    </g>
+
+    <!-- Stat 2: Total Contributions -->
+    <g transform="translate(0, 68)">
+      <circle cx="8" cy="8" r="4" fill="#34D399" />
+      <text x="22" y="12" fill="#94A3B8" font-family="'Segoe UI', sans-serif" font-size="13">Total Git Contributions:</text>
+      <text x="350" y="12" text-anchor="end" fill="#34D399" font-family="'Courier New', monospace" font-size="14" font-weight="bold">870+ Commits</text>
+    </g>
+
+    <!-- Stat 3: Production Repos -->
+    <g transform="translate(0, 100)">
+      <circle cx="8" cy="8" r="4" fill="#C084FC" />
+      <text x="22" y="12" fill="#94A3B8" font-family="'Segoe UI', sans-serif" font-size="13">Active Repositories:</text>
+      <text x="350" y="12" text-anchor="end" fill="#C084FC" font-family="'Courier New', monospace" font-size="14" font-weight="bold">8 Systems</text>
+    </g>
+
+    <!-- Stat 4: Cloud Status -->
+    <g transform="translate(0, 132)">
+      <circle cx="8" cy="8" r="4" fill="#F43F5E" />
+      <text x="22" y="12" fill="#94A3B8" font-family="'Segoe UI', sans-serif" font-size="13">Deployment Target:</text>
+      <text x="350" y="12" text-anchor="end" fill="#38BDF8" font-family="'Courier New', monospace" font-size="14" font-weight="bold">Google Cloud Run</text>
+    </g>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="415" y1="20" x2="415" y2="190" stroke="#1E293B" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- ==================== RIGHT COLUMN: SKILL EXP BARS ==================== -->
+  <g transform="translate(445, 25)">
+    <!-- Header -->
+    <text x="0" y="16" fill="#FDE047" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16" font-weight="900" letter-spacing="1">
+      &#x25C6; EQUIPPED TECH EXP
+    </text>
+
+    <!-- Skill 1: Google Cloud & Containers -->
+    <g transform="translate(0, 32)">
+      <text x="0" y="12" fill="#E2E8F0" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Google Cloud &amp; Containers</text>
+      <text x="365" y="12" text-anchor="end" fill="#38BDF8" font-family="'Courier New', monospace" font-size="11" font-weight="bold">95%</text>
+      <rect x="0" y="18" width="365" height="7" rx="3.5" fill="#1E293B" />
+      <rect x="0" y="18" width="346" height="7" rx="3.5" fill="url(#cyanGrad)" />
+    </g>
+
+    <!-- Skill 2: Backend & Spring Boot -->
+    <g transform="translate(0, 64)">
+      <text x="0" y="12" fill="#E2E8F0" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Backend &amp; Spring Boot</text>
+      <text x="365" y="12" text-anchor="end" fill="#34D399" font-family="'Courier New', monospace" font-size="11" font-weight="bold">80%</text>
+      <rect x="0" y="18" width="365" height="7" rx="3.5" fill="#1E293B" />
+      <rect x="0" y="18" width="292" height="7" rx="3.5" fill="url(#greenGrad)" />
+    </g>
+
+    <!-- Skill 3: PostgreSQL & Databases -->
+    <g transform="translate(0, 96)">
+      <text x="0" y="12" fill="#E2E8F0" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">PostgreSQL &amp; Data Models</text>
+      <text x="365" y="12" text-anchor="end" fill="#FDE047" font-family="'Courier New', monospace" font-size="11" font-weight="bold">85%</text>
+      <rect x="0" y="18" width="365" height="7" rx="3.5" fill="#1E293B" />
+      <rect x="0" y="18" width="310" height="7" rx="3.5" fill="url(#goldGrad)" />
+    </g>
+
+    <!-- Skill 4: Applied AI & Gemini -->
+    <g transform="translate(0, 128)">
+      <text x="0" y="12" fill="#E2E8F0" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="600">Applied AI (Gemini &amp; Vertex AI)</text>
+      <text x="365" y="12" text-anchor="end" fill="#C084FC" font-family="'Courier New', monospace" font-size="11" font-weight="bold">75%</text>
+      <rect x="0" y="18" width="365" height="7" rx="3.5" fill="#1E293B" />
+      <rect x="0" y="18" width="274" height="7" rx="3.5" fill="url(#purpleGrad)" />
+    </g>
+  </g>
+</svg>
