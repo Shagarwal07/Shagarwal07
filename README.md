@@ -141,14 +141,14 @@ Motto       : "Build fast, package in Docker, ship to Cloud Run."
 ### 📊 Arcade Leaderboard Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shagarwal07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Player Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagarwal07&layout=compact&theme=radical&hide_border=true" alt="Equipped Languages" height="155" />
+  <img src="https://github-readme-stats-beryl-five.vercel.app/api?username=Shagarwal07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Player Stats" height="155" />
+  <img src="https://github-readme-stats-beryl-five.vercel.app/api/top-langs/?username=Shagarwal07&layout=compact&theme=radical&hide_border=true" alt="Equipped Languages" height="155" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shagarwal07&theme=radical&hide_border=true" alt="Game Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Shagarwal07&theme=radical&hide_border=true" alt="Game Streak" />
 </div>
 
 ---
