@@ -1,147 +1,163 @@
 <div align="center">
 
-<!-- HERO HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=180&section=header&text=Shubham%20Agarwal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20&%20Backend%20Engineer%20%7C%20Spring%20Boot%20%E2%80%A2%20Google%20Cloud%20%E2%80%A2%20Applied%20AI&descAlignY=62&descSize=16" width="100%" alt="Header Banner"/>
-
-<!-- QUICK CONTACT BADGES -->
-<a href="https://www.linkedin.com/in/shubham-agrawal-856601244" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:shubham.23bcon0370@jecrcu.edu.in">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<!-- RETRO ARCADE TYPING BANNER -->
 <a href="https://github.com/Shagarwal07">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://cloudskillsboost.google" target="_blank">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=680&height=110&lines=%3E+PLAYER+1+READY...+SHUBHAM+AGARWAL+%F0%9F%8E%AE;%3E+CLASS%3A+CLOUD+PILOT+%2F+ARCADE+CONQUEROR+%E2%98%81%EF%B8%8F;%3E+400%2B+GCP+LABS+CLEARED+%7C+LVL+99+STAMINA+%E2%AD%90;%3E+DEPLOYING+QUESTS+TO+GOOGLE+CLOUD+%F0%9F%9A%80" alt="Arcade Typing Banner" />
 </a>
 
-<br/><br/>
-
-<!-- METRICS PILLS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cloud-400+%20Hands--on%20Labs-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="400+ Labs" />
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Postgres-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Backend" />
-  <img src="https://img.shields.io/badge/Containers-Docker%20%7C%20Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Applied%20AI-Gemini%20%7C%20Vertex%20AI%20%7C%20RAG-orange?style=flat-square" alt="AI" />
+  🎮 <b>Insert Coin to Deploy</b> • ☁️ <b>Google Cloud Explorer</b> • ⚡ <b>Rapid Product Shipper</b>
+</p>
+
+<!-- ACTION BUTTONS / LOOT LINKS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-agrawal-856601244" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shubham.23bcon0370@jecrcu.edu.in">
+    <img src="https://img.shields.io/badge/COOP_INVITE-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://cloudskillsboost.google" target="_blank">
+    <img src="https://img.shields.io/badge/GCP_ARCADE-400+_LABS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Arcade" />
+  </a>
+  <a href="https://github.com/Shagarwal07">
+    <img src="https://img.shields.io/badge/STATUS-ONLINE_%26_BUILDING-10B981?style=for-the-badge" alt="Status" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### ⚡ Engineering Overview
+### 👾 Character Sheet & Cloud Stats
 
-I build **resilient backend systems, cloud-native architectures, and intelligent workflows**. With deep hands-on exposure to cloud infrastructure and containerized microservices, I focus on turning complex, real-world utility problems into high-performance, maintainable software products.
+```yaml
+Character   : Shubham Agarwal [Player 1]
+Class       : Cloud Alchemist / Systems Pilot ☁️
+Home Realm  : Google Cloud Platform (Arcade Track)
+Battle Cry  : "Build fast, package in Docker, ship to Cloud Run."
 
-* ☁️ **Cloud Infrastructure:** Completed **400+ hands-on labs** across Google Cloud Skills Boost & Arcade, specializing in Cloud Run, Cloud Build, Artifact Registry, and container deployments.
-* ⚙️ **Backend & Architecture:** Designing production-ready backends with **Spring Boot**, **PostgreSQL**, robust **RBAC authorization**, and clean REST APIs.
-* 🤖 **Applied AI & RAG:** Integrating practical AI capabilities using **Vertex AI**, **Gemini**, and semantic RAG workflows rather than surface-level wrappers.
-* 📦 **DevOps & Delivery:** Containerizing applications with **Docker**, deploying on **Kubernetes**, and automating delivery through CI/CD pipelines.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,gcp,docker,kubernetes,githubactions,linux,git,postman,maven" alt="Tech Stack Icons" />
-</div>
-
-<br/>
-
-| Domain | Core Technologies & Tooling |
-| :--- | :--- |
-| **Backend & Architecture** | Java, Spring Boot, REST APIs, Microservices, Hibernate / JPA, JWT, RBAC |
-| **Databases & Storage** | PostgreSQL, Relational Schema Modeling, Query Optimization, Database Indexing |
-| **Cloud & DevOps** | Google Cloud (Cloud Run, Cloud Build, Artifact Registry), Docker, Kubernetes, CI/CD |
-| **AI & Automation** | Gemini API, Google Cloud Vertex AI, OpenRouter, RAG Workflows, Semantic Search |
-| **Workflow & Environments** | Linux, Git, GitHub Actions, Postman, Maven |
+[ STATS & ATTRIBUTES ]
+☁️ Cloud Stamina       : [████████████████████] LVL 99 (400+ GCP Labs Conquered)
+⚡ Prototyping Speed   : [████████████████░░░░] High Velocity Product Builds
+📦 Containerization    : [██████████████░░░░░░] Docker & Cloud Run Deploys
+🧠 AI Integration      : [█████████████░░░░░░░] Gemini & Vertex AI Workflows
+💾 Data Persistence    : [████████████░░░░░░░░] PostgreSQL & Spring Boot Glue
+```
 
 ---
 
-### 🚀 Featured Systems & Real-World Projects
+### 🗺️ The Cloud Pipeline (Game Loop)
+
+```
+       [ 👾 Real-World Boss / Problem ]
+                     │
+                     ▼
+       [ 💡 Rapid Prototyping & Iteration ]
+                     │
+                     ▼
+   [ 🧩 Data & Backend Connectors (PostgreSQL / APIs) ]
+                     │
+                     ▼
+       [ 📦 Sealed in Docker Container ]
+                     │
+                     ▼
+       [ ☁️ Launched to Google Cloud Run 🚀 ]
+```
+
+---
+
+### ⚔️ Completed Quests (Proof of Work)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/Shagarwal07/LearnStudio">LearnStudio LMS</a></h3>
-      <p>A cloud-native, modular Learning Management System built for scalable course delivery, structured academic management, and enterprise role-based security.</p>
+      <h4>🗳️ <a href="https://github.com/Shagarwal07/Voter_scrap">Quest: The Civic Data Engine</a></h4>
+      <p><i>Mission: Defeat sluggish public document searching and build an instant voter lookup portal.</i></p>
       <ul>
-        <li><b>Architecture:</b> Spring Boot REST backend with layered security & JWT authentication</li>
-        <li><b>Persistence:</b> PostgreSQL with optimized query models for role-based permissions</li>
-        <li><b>Deployment:</b> Fully containerized with Docker for seamless cloud execution</li>
+        <li><b>Objective:</b> Automated ingestion pipeline for public voter records.</li>
+        <li><b>Execution:</b> Multi-filter search interface with instant response times.</li>
+        <li><b>Loot / Infra:</b> <code>Google Cloud Run</code> • <code>Fast Search APIs</code> • <code>Docker</code></li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗳️ <a href="https://github.com/Shagarwal07/Voter_scrap">Electoral Voter Search Engine</a></h3>
-      <p>A high-performance civic voter data indexing and search application engineered to process public registers and execute queries with sub-second response times.</p>
+      <h4>🎓 <a href="https://github.com/Shagarwal07/LearnStudio">Quest: The LearnStudio Citadel</a></h4>
+      <p><i>Mission: Construct a multi-tiered online learning hub for structured curriculum.</i></p>
       <ul>
-        <li><b>Engine:</b> Automated data ingestion and normalized search indexing pipeline</li>
-        <li><b>Performance:</b> Optimized multi-criteria filter execution for instant lookups</li>
-        <li><b>Infra:</b> Containerized microservice architected for serverless cloud execution</li>
+        <li><b>Objective:</b> Course catalog, user roles, video tracking & authentication.</li>
+        <li><b>Execution:</b> Relational database persistence with clean REST endpoints.</li>
+        <li><b>Loot / Infra:</b> <code>Spring Boot</code> • <code>PostgreSQL</code> • <code>Docker</code></li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Search_API-333333?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square"/>
-      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/Shagarwal07/Maharaja_agrasen_balotra">Community Management Portal</a></h3>
-      <p>Digital institutional management portal featuring structured relational databases, member registry tracking, and role-based administrative workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Full_Stack-007ACC?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Database_Design-4169E1?style=flat-square"/>
-      </p>
+      <h4>🏛️ <a href="https://github.com/Shagarwal07/Maharaja_agrasen_balotra">Quest: Guild of Balotra</a></h4>
+      <p><i>Mission: Digitize paper records into an institutional community portal.</i></p>
+      <ul>
+        <li><b>Objective:</b> Member registry, searchable directories, and role management.</li>
+        <li><b>Execution:</b> Structured relational schema and administrative control.</li>
+        <li><b>Loot / Infra:</b> <code>Relational DB</code> • <code>Web Portal</code> • <code>Admin Tools</code></li>
+      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/Shagarwal07/HealthCare-platform">Healthcare Operations Platform</a></h3>
-      <p>Healthcare coordination system focused on service scheduling, records management, and reliable backend service integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Backend_Services-6DB33F?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Cloud_Native-4285F4?style=flat-square"/>
-      </p>
+      <h4>🔮 Quest: The Gemini Oracle</h4>
+      <p><i>Mission: Supercharge web applications with multimodal intelligence.</i></p>
+      <ul>
+        <li><b>Objective:</b> Move beyond generic chatbots to contextual app intelligence.</li>
+        <li><b>Execution:</b> Vertex AI pipelines, Gemini API & RAG document retrieval.</li>
+        <li><b>Loot / Infra:</b> <code>Vertex AI</code> • <code>Gemini</code> • <code>RAG</code> • <code>OpenRouter</code></li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-### ☁️ Cloud Track Record & Hands-On Exposure
+### 🏆 Arcade Trophies & Cloud Achievements
 
 ```
-[Google Cloud Skills Boost & Arcade Track]
-├── 400+ Completed Hands-On Cloud Labs
-├── Serverless Compute: Google Cloud Run & Cloud Functions
-├── CI/CD & Containers: Artifact Registry + Cloud Build
-└── Applied AI: Vertex AI Pipelines & Gemini Multimodal Workflows
+[ GOOGLE CLOUD ARCADE & SKILLS BOOST EXP ]
+├── 🏅 Master Explorer : 400+ Hands-on Cloud Labs Cleared
+├── 🚀 Cloud Run Hero  : Stateless container deployments in production
+├── 🔨 Pipeline Runner : Artifact Registry & Cloud Build automation
+└── 🧠 Neural Alchemist: Vertex AI model integration & API orchestration
 ```
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🎒 Inventory & Equipped Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shagarwal07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shubham's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagarwal07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,postgres,java,spring,git,github,linux,postman" alt="Equipped Inventory" />
+</div>
+
+<br/>
+
+* **Cloud & Serverless:** Google Cloud Platform (Cloud Run, Cloud Build, Artifact Registry)
+* **Containers & Orchestration:** Docker, Kubernetes
+* **Databases & Backends:** PostgreSQL, Spring Boot, REST APIs, JSON Data Pipelines
+* **Applied Intelligence:** Gemini 1.5/2.0 API, Vertex AI, RAG Architectures, OpenRouter
+* **Dev Gear:** Linux, Git, GitHub Actions, Postman, Maven
+
+---
+
+### 📊 Arcade Leaderboard Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shagarwal07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Player Stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagarwal07&layout=compact&theme=radical&hide_border=true" alt="Equipped Languages" height="155" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shagarwal07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shagarwal07&theme=radical&hide_border=true" alt="Game Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Open to backend engineering roles, cloud architecture collaborations, and impactful technical builds.</sub>
+  <p>🕹️ <i>"Level up by deploying. Solve real problems, conquer the cloud, and keep shipping."</i></p>
+  <sub>Ready to Co-op? Connect on <a href="https://www.linkedin.com/in/shubham-agrawal-856601244">LinkedIn</a> or send an <a href="mailto:shubham.23bcon0370@jecrcu.edu.in">Email</a></sub>
 </div>
