@@ -46,7 +46,7 @@ Motto       : "Build fast, package in Docker, ship to Cloud Run."
 ### 🗺️ The Cloud Game Loop
 
 ```
-       [ 👾 Real-World Problem Boss ]
+       [ 👾 Real-World Problem / Need ]
                      │
                      ▼
        [ 💡 Rapid Prototyping & Iteration ]
@@ -63,46 +63,46 @@ Motto       : "Build fast, package in Docker, ship to Cloud Run."
 
 ---
 
-### ⚔️ Completed Quests (Proof of Work)
+### ⚔️ Real-World Builds (Proof of Work)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗳️ <a href="https://github.com/Shagarwal07/Voter_scrap">Quest: The Civic Data Engine</a></h4>
-      <p><i>Mission: Defeat sluggish public document searching and build an instant voter lookup portal.</i></p>
+      <h4>🗳️ <a href="https://github.com/Shagarwal07/Voter_scrap">Electoral Voter Search Platform</a></h4>
+      <p><i>High-throughput civic data processing and search application.</i></p>
       <ul>
-        <li><b>Objective:</b> Automated ingestion pipeline for public voter records.</li>
-        <li><b>Execution:</b> Multi-filter search interface with instant response times.</li>
-        <li><b>Loot / Infra:</b> <code>Google Cloud Run</code> • <code>Fast Search APIs</code> • <code>Docker</code></li>
+        <li><b>Problem:</b> Slow and cumbersome searching across large public voter registers.</li>
+        <li><b>Solution:</b> Automated ingestion pipeline with multi-filter sub-second lookup.</li>
+        <li><b>Tech:</b> <code>Google Cloud Run</code> • <code>Fast Search APIs</code> • <code>Docker</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/Shagarwal07/LearnStudio">Quest: The LearnStudio Citadel</a></h4>
-      <p><i>Mission: Construct a multi-tiered online learning hub for structured curriculum.</i></p>
+      <h4>🎓 <a href="https://github.com/Shagarwal07/LearnStudio">LearnStudio LMS</a></h4>
+      <p><i>Full-fledged learning management system for structured academic courses.</i></p>
       <ul>
-        <li><b>Objective:</b> Course catalog, user roles, video tracking & authentication.</li>
-        <li><b>Execution:</b> Relational database persistence with clean REST endpoints.</li>
-        <li><b>Loot / Infra:</b> <code>Spring Boot</code> • <code>PostgreSQL</code> • <code>Docker</code></li>
+        <li><b>Problem:</b> Disorganized educational material and lack of role-based learning tracks.</li>
+        <li><b>Solution:</b> Modular course catalog, user role permissions, and media tracking.</li>
+        <li><b>Tech:</b> <code>Spring Boot</code> • <code>PostgreSQL</code> • <code>Docker</code> • <code>REST</code></li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏛️ <a href="https://github.com/Shagarwal07/Maharaja_agrasen_balotra">Quest: Guild of Balotra</a></h4>
-      <p><i>Mission: Digitize paper records into an institutional community portal.</i></p>
+      <h4>🏛️ <a href="https://github.com/Shagarwal07/Maharaja_agrasen_balotra">Maharaja Agrasen Balotra Portal</a></h4>
+      <p><i>Digital management and operational portal for community administration.</i></p>
       <ul>
-        <li><b>Objective:</b> Member registry, searchable directories, and role management.</li>
-        <li><b>Execution:</b> Structured relational schema and administrative control.</li>
-        <li><b>Loot / Infra:</b> <code>Relational DB</code> • <code>Web Portal</code> • <code>Admin Tools</code></li>
+        <li><b>Problem:</b> Physical paper records and lack of centralized directory lookup.</li>
+        <li><b>Solution:</b> Digital member directory, structured databases, and role workflows.</li>
+        <li><b>Tech:</b> <code>Relational DB</code> • <code>Web Portal</code> • <code>Admin Tools</code></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔮 Quest: The Gemini Oracle</h4>
-      <p><i>Mission: Supercharge web applications with multimodal intelligence.</i></p>
+      <h4>🤖 Applied AI & RAG Workflows</h4>
+      <p><i>Practical AI integrations focused on real utility.</i></p>
       <ul>
-        <li><b>Objective:</b> Move beyond generic chatbots to contextual app intelligence.</li>
-        <li><b>Execution:</b> Vertex AI pipelines, Gemini API & RAG document retrieval.</li>
-        <li><b>Loot / Infra:</b> <code>Vertex AI</code> • <code>Gemini</code> • <code>RAG</code> • <code>OpenRouter</code></li>
+        <li><b>Problem:</b> Generic chatbots lacking contextual grounding in custom data.</li>
+        <li><b>Solution:</b> RAG document retrieval pipelines with Gemini API & Vertex AI models.</li>
+        <li><b>Tech:</b> <code>Vertex AI</code> • <code>Gemini</code> • <code>RAG</code> • <code>OpenRouter</code></li>
       </ul>
     </td>
   </tr>
